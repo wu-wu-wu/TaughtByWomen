@@ -10,4 +10,3 @@ a collection of compelling lectures/ tutorials on physics / programming made by 
 [Black Holes at the Large Hadron Collider]: https://www.youtube.com/watch?v=IULjmY7ZqFM
 [Crazy Pool Vortex]: https://www.youtube.com/watch?v=pnbJEg9r1o8
 [The fourth state of matter -- plasma]: https://www.youtube.com/watch?v=n-17xqfF4FU
-
